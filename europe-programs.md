@@ -86,8 +86,8 @@ en un mapa, una vez vistos los que nos interesan se puede ver la lista de estas 
 [Enlace a la página.](https://ucm.moveon4.com//publisher/2/spa)
 
 ### Filtras la búsqueda con los datos que mas te interesan
-![Imagen uno de busqueda](https://github.com/SciDataUCM/spanish-scholarships/resouces/search_1.jpg)
+![Imagen uno de busqueda](https://github.com/SciDataUCM/spanish-scholarships/blob/master/resources/search_1.jpg)
 
 ### Seleccionas el convenio existente que más te interese
-![Imagen uno de busqueda dos](https://github.com/SciDataUCM/spanish-scholarships/resouces/search_2.jpg)
+![Imagen uno de busqueda dos](https://github.com/SciDataUCM/spanish-scholarships/blob/master/resources/search_2.jpg)
 
