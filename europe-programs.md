@@ -78,3 +78,16 @@ La red de universidades australianas se compone de:
 * Tasmania: University of Tasmania
 * Victoria: Deakin University
 * Western Australia: Edith Cowan University
+
+## Buscador de convenios
+Existe una página de la universidad complutense de Madrid en la cual se puede ver los convenios que tiene actualmente activos y visualizarlos 
+en un mapa, una vez vistos los que nos interesan se puede ver la lista de estas y mas informacion de cada una al entrar en el enlace.
+
+[Enlace a la página.](https://ucm.moveon4.com//publisher/2/spa)
+
+### Filtras la búsqueda con los datos que mas te interesan
+![Imagen uno de busqueda](https://github.com/SciDataUCM/spanish-scholarships/resouces/search_1.jpg)
+
+### Seleccionas el convenio existente que más te interese
+![Imagen uno de busqueda dos](https://github.com/SciDataUCM/spanish-scholarships/resouces/search_2.jpg)
+
