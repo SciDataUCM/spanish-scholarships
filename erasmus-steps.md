@@ -8,4 +8,4 @@ o [esta tabla](https://idiomascomplutense.es/wp-content/uploads/2018/10/Certific
 
 2. **Conocer la convocatoria de erasmus**: En los siguientes enlaces aparecen las convocatorias conocidas, aunque no este la ultima
 los porcedimietos e informacion son parecidos (hasta cambio de acuerdo en 2020):
-* [Convocatoria de 2018/2019]()
+* [Convocatoria de 2018/2019](https://github.com/SciDataUCM/spanish-scholarships/blob/master/erasmus-plus/announcement-1819.md)
